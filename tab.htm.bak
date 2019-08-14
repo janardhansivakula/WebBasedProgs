@@ -1,0 +1,72 @@
+<html>
+<body>
+<bdo dir="rtl">mynameisjanardhan</bdo>
+<bdo dir="ltr">my name is janardhan</bdo>
+<img src="THE LORD SIVA.jpg" width="200px" height="200px">
+<img src="THE LORD VENKATESWARA.jpg" width="200px" height="200px">
+<img width="200px" height="200px"alt="SAI NADH">
+<img src="shiridi sai nadh.jpg" width="200px" height="200px"><br> 
+<a href="http://www.mozillafirefox.com">Go to mozilla fire fox</a><br>
+<a href="http://www.ask.com">Go to ask.com</a><br>
+<a href="http://www.gmail.com">Click here to go to gmail</a><br>
+<ul type="A">
+<li>janardhan1</li>
+<li>janardhan2</li>
+<li>janardhan3</li>
+<li>janardhan4</li>
+<li>janardhan5</li>
+</ul>
+<ol type="i">
+<li>johnboy1</li>
+<li>johnboy2</li>
+<li>johnboy3</li>
+<li>johnboy4</li>
+<li>johnboy5</li>
+<li>johnboy6</li>
+</ol>
+<dl>
+<dt>WHO AM I</dt>
+<DD> iam a java developer</DD>
+<dt>WHAT AM I DOING</dt>
+<dd>iam persuing course now</dd>
+</dl>
+<table border="13">
+<tr>
+<th>STUDNAME</th>
+<th>STUDID</th>
+<th>STUDMARKS</th>
+</tr>
+<tr>
+<td>johnboy</td>
+<td>1122123</td>
+<td>15000</td>
+</tr>
+<tr>
+<td>janardhan</td>
+<td>11223</td>
+<td>35000</td>
+</tr>
+<tr>
+<td>jeggu</td>
+<td>11123</td>
+<td>55000</td>
+</tr>
+<tr>
+<td>anil</td>
+<td>342321</td>
+<td>150000</td>
+<td>data admin</td>
+</tr>
+<tr>
+<td>gangadhar</td>
+<td>113355</td>
+<td>45000</td>
+</tr>
+<tr>
+<td>narsi</td>
+<td>776655</td>
+<td>450454</td>
+</tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,31 @@
+<html>
+<head>
+<title>JANARDHAN</title>
+</head>
+<body>
+<tr>
+<th>STUDNAME</th>
+<th>STUDID</th>
+<th>STUDMARKS</th>
+<td>johnboy</td>
+<td>1122123</td>
+<td>15000</td>
+</tr>
+<br><em>emphasis></em>
+<i>italic</i>
+<u>under line</u>
+<hr>horizontal line
+<img src="shiridi sai nadh.jpg "height=500px width=500px>
+<abbr title="sai sai sai">sai<sup>3 </abbr><abbr title="MMMMM ">M<sup>5</sup></abbr>
+
+<b> bold</b>
+<strong>strong</strong>
+<strike>STRIKE</strike>
+<h6>hai my name is janardhan</h6>
+<h5>hai my name is janardhan</h5>
+<h4>hai my name is janardhan</h4>
+<h3>hai my name is janardhan</h3>
+<h2>hai my name is janardhan</h2>
+<h1>hai my name is janardhan</h1>
+</body>
+</html>

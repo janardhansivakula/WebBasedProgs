@@ -1,0 +1,20 @@
+<html>
+<body>
+<table BORDER="10">
+<tr>
+<td rowspan="3">JAVA</td>
+<td rowspan="3">.NET</td>
+</tr>
+<tr>
+<TD>CORE JAVA</TD>
+<TD>ADV JAVA</TD>
+<TD>FRAME WORKS</TD>
+</tr>
+<TR>
+<TD>C#</TD>
+<TD>MMM</TD>
+<TD>NNNN</TD>
+</TR>
+</table>
+</body>
+</html>

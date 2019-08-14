@@ -1,0 +1,19 @@
+<html>
+<head>
+<title>JOHNBOY BROWSER</title>
+<head>
+<body>
+<table border="1">
+<tr>
+<th>STUDID</th>
+<th>STUDNAME</th>
+<th>STUDSAL</th>
+</tr>
+<tr>
+<td>112211</td>
+      <td>janardhan</td>
+	  <td>15000</td>
+</tr>
+</table>
+</body>
+</html>
